@@ -2,4 +2,6 @@
 这是我第一次使用Git,Git真牛逼，
 现在学习冲突区。
 
-dev
+dev提交
+
+dev不add
